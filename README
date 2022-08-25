@@ -3,3 +3,5 @@
 This is the implementation of a router which presents basic functionalities that every router has.
 
 This program implements functionalities for packet forwarding and error checking.
+
+rtable0/1 are files that can be used to upload the routing table of a router.
